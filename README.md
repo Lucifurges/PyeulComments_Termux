@@ -1,6 +1,6 @@
 # PyeulComments_Termux
 
-git clone 
+git clone https://github.com/Lucifurges/PyeulComments_Termux.git
 
 
 cd PyeulComments_Termux
